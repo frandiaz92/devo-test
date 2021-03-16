@@ -9,8 +9,10 @@ And install node dependencies
 
 ```shell
 npm i
+cd src/
 ```
 
+IMPORTANT!: To execute all exercises you have to be in the src directory.
 # Exercise 1:
 
 Write an efficient algorithm to check if a string is a palindrome. A string is a palindrome if the string matches the reverse of string.
